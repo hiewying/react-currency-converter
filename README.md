@@ -1,6 +1,6 @@
 # Currency Converter App
 
-This is a simple **Currency Converter** app built with **React.js** and styled with **Tailwind CSS**. The app uses the **[Frankfurter API](https://www.frankfurter.dev/)** to fetch live exchange rates and convert currencies based on user input. **React Icons** is used for the app's iconography.
+This is a simple **Currency Converter** app built with **React.js** and styled with **Tailwind CSS**. The app uses the **[Frankfurter API](https://www.frankfurter.dev/)** to fetch live exchange rates and convert currencies based on user input. You can also **star currencies as favorites** to quickly access them.
 
 <img width="692" height="482" alt="Screenshot 2025-07-10 151217" src="https://github.com/user-attachments/assets/73747f3f-9211-4613-ae03-23d1f0133c98" />
 
@@ -11,8 +11,8 @@ This is a simple **Currency Converter** app built with **React.js** and styled w
 - Convert between different currencies.
 - View live exchange rates for selected currencies.
 - Built with **React.js** for dynamic interactivity.
+- **Star currencies as favorites** for quick access.
 - Styled with **Tailwind CSS** for a responsive and modern design.
-- Uses **React Icons** for clean and intuitive iconography.
 
 ---
 
